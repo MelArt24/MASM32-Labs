@@ -19,7 +19,7 @@ class CreateUserActivity : AppCompatActivity() {
 
     }
 
-    fun generateColorClicked() {
+    fun generateColorClicked(view: View) {
 
     }
 }
