@@ -45,4 +45,8 @@ class MainActivity : AppCompatActivity() {
     fun addChannelClicked(view: View) {
 
     }
+
+    fun sendMessageBtnClicked(view: View) {
+
+    }
 }
