@@ -1,6 +1,7 @@
 package com.am24.chatapp
 
 import android.os.Bundle
+import android.view.View
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
@@ -37,4 +38,11 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    fun loginBtnNavClicked(view: View) {
+
+    }
+
+    fun addChannelClicked(view: View) {
+
+    }
 }
