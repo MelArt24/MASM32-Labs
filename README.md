@@ -1,3 +1,1 @@
-# ChatApp
-
-Project closed forever
+# Project closed forever
