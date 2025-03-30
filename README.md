@@ -1,1 +1,1 @@
-# Project closed forever
+# Free repository for future projects :)
