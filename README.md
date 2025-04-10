@@ -1,1 +1,1 @@
-# Free repository for future projects :)
+# Repository for MASM32 labs
